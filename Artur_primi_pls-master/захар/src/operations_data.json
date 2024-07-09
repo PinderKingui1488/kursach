@@ -1,0 +1,130 @@
+{
+    "greeting": "Добрый вечер!",
+    "total_expenses": 2183.78,
+    "card_data": [
+        {
+            "last_digits": "1111",
+            "total_spent": 1800.1000000000001,
+            "cashback": 78.0
+        }
+    ],
+    "top_transactions": [
+        {
+            "date_operation": "12.05.2024 13:52:28",
+            "data_payment": "12.05.2024",
+            "card_number": NaN,
+            "status": "OK",
+            "transaction_amount": 500.0,
+            "currency_operation": "RUB",
+            "payment_amount": 500.0,
+            "payment_currency": "RUB",
+            "cashback": 350.0,
+            "category": "Бонусы",
+            "MCC": NaN,
+            "description": "Выплата по акции",
+            "bonuses_including_cashback": 350,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 500.0
+        },
+        {
+            "date_operation": "11.05.2024 12:13:49",
+            "data_payment": "11.05.2024",
+            "card_number": "*1111",
+            "status": "OK",
+            "transaction_amount": 500.0,
+            "currency_operation": "RUB",
+            "payment_amount": 500.0,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Переводы",
+            "MCC": NaN,
+            "description": "Ilya A.",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 500.0
+        },
+        {
+            "date_operation": "11.05.2024 18:09:41",
+            "data_payment": "11.05.2024",
+            "card_number": "*1111",
+            "status": "OK",
+            "transaction_amount": 350.0,
+            "currency_operation": "RUB",
+            "payment_amount": 350.0,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Переводы",
+            "MCC": NaN,
+            "description": "Ilya A.",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 350.0
+        },
+        {
+            "date_operation": "27.05.2024 06:20:36",
+            "data_payment": "27.05.2024",
+            "card_number": "*1111",
+            "status": "OK",
+            "transaction_amount": 150.0,
+            "currency_operation": "RUB",
+            "payment_amount": 150.0,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Переводы",
+            "MCC": NaN,
+            "description": "Ilya A.",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 150.0
+        },
+        {
+            "date_operation": "23.05.2024 06:17:24",
+            "data_payment": "23.05.2024",
+            "card_number": NaN,
+            "status": "OK",
+            "transaction_amount": 150.0,
+            "currency_operation": "RUB",
+            "payment_amount": 150.0,
+            "payment_currency": "RUB",
+            "cashback": NaN,
+            "category": "Переводы",
+            "MCC": NaN,
+            "description": "Ilya A.",
+            "bonuses_including_cashback": 0,
+            "rounding_investment_bank": 0,
+            "amount_rounding_operation": 150.0
+        }
+    ],
+    "currency_rates": [
+        {
+            "currency": "USD",
+            "rate": 87.001605
+        },
+        {
+            "currency": "EUR",
+            "rate": 94.067987
+        }
+    ],
+    "stock_prices": [
+        {
+            "stock": "AAPL",
+            "price": 229.39500427246094
+        },
+        {
+            "stock": "AMZN",
+            "price": 200.57000732421875
+        },
+        {
+            "stock": "GOOGL",
+            "price": 191.36000061035156
+        },
+        {
+            "stock": "MSFT",
+            "price": 467.3299865722656
+        },
+        {
+            "stock": "TSLA",
+            "price": 265.6099853515625
+        }
+    ]
+}
