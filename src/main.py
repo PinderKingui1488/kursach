@@ -3,6 +3,8 @@ from src.services import main_services
 from src.views import main_views
 
 
+#hello
+
 def main() -> None:
     """вызываю все функции из модуля views,reports,services"""
     main_views()
